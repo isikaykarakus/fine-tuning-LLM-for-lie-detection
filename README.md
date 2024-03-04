@@ -13,7 +13,7 @@ Project By : <br>
 
 
 ## About
-This repository encompasses the code and documentation for the "Fine Tuning of MiniLM for Lie Detection Task" project, conducted as part of the Cognitive, Behavioral, and Social Data course at the University of Padua. The project delves into the utilization of Large Language Models (LLMs), particularly MiniLM, for lie detection, employing two distinct methods: transfer learning and parameter-efficient fine-tuning with LoRa.
+This repository encompasses the code and documentation for the "Fine Tuning of MiniLM for Lie Detection Task" project, conducted as part of the Cognitive, Behavioral, and Social Data course at the University of Padua. The project delves into the utilization of Large Language Models (LLMs), particularly MiniLM, for lie detection, employing two distinct methods: Transfer Learning and Parameter-Efficient Fine-Tuning with LoRa.
 
 
 
