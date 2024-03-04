@@ -93,8 +93,5 @@ Ensure you have the following Python packages installed:
 
 ## Results 
 
-Our primary objective was to address the lie-detection task as a binary classification challenge, where the dataset comprised raw texts associated with binary labels, categorizing instances as either truthful or deceptive. By fine-tuning MiniLM, we transformed the model into a specialized tool for binary classification tasks.
-
-Despite our diligent efforts in hyperparameter tuning and model selection, we acknowledge that our achieved maximum accuracy of 70% with Transfer Learning, while surpassing human performance, may not meet the desired threshold for optimal performance.
-
+Our project yielded compelling results in the lie-detection task, treating it as a binary classification challenge. Through the fine-tuning of MiniLM, we achieved an impressive maximum accuracy of 70%, surpassing human performance in discerning truthful and deceptive instances from raw texts. This outcome underscores the efficacy of Transfer Learning and demonstrates the potential for advanced language models to excel in intricate classification tasks. 
 
