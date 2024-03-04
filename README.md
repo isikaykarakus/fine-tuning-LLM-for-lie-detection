@@ -90,3 +90,11 @@ Ensure you have the following Python packages installed:
 - **load_model.py:** Python script for loading models.
 - **main_LoRA.py:** Python script with LoRA implementation.
 - **train.py:** Python script for training.
+
+## Results 
+
+Our primary objective was to address the lie-detection task as a binary classification challenge, where the dataset comprised raw texts associated with binary labels, categorizing instances as either truthful or deceptive. By fine-tuning MiniLM, we transformed the model into a specialized tool for binary classification tasks.
+
+Despite our diligent efforts in hyperparameter tuning and model selection, we acknowledge that our achieved maximum accuracy of 70% with Transfer Learning, while surpassing human performance, may not meet the desired threshold for optimal performance.
+
+
